@@ -1,8 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jerome Cabugwason
 ---
-Web Developer
+Software Engineer
 ---
-I started writing batch scripts when I was 10, Now I'm pursuing my Software engineering career for 2 years. I enjoy working with teams and designing software infrastructure.* 🌍  I'm based in Phillipines* ✉️  You can contact me at [jeromecabugwason2@gmail.com](mailto:jeromecabugwason2@gmail.com)* 🧠  I'm learning Fullstack Web Development* 🤝  I'm open to collaborating on Web and Mobile Projects.* ⚡  I love coffee
+I started writing batch scripts when I was 10, Now I'm pursuing my Software engineering career for 2 years. I enjoy working with teams and designing software infrastructure.
+* 🌍  I'm based in Phillipines
+* ✉️  You can contact me at [jeromecabugwason2@gmail.com](mailto:jeromecabugwason2@gmail.com)
+* 🧠  I'm learning Fullstack Web Development
+* 🤝  I'm open to collaborating on Web and Mobile Projects.
+* ⚡  I love coffee
 
 ### Skills
 
